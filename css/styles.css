@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color:#817373;
+    margin: 0;
+}
+h1{
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 1.5;
+    margin-bottom: 0;
+    padding: 0;
+}
+#main{
+    background-color: aliceblue;
+}
+#img-div img{
+   width: 100%;
+   height: auto;
+   border-radius: 5px;
+   display: block;
+}
+.history{
+    max-width: 550px;
+    margin: auto;
+    line-height: 2;
+    padding: 20px;
+}
+#img-caption{
+    font-size: small;
+}
+.list li{
+    
+    text-align: left;
+}
